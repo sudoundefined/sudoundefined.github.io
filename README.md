@@ -11,7 +11,7 @@
 
 **An immersive, space-themed 3D portfolio website with interactive WebGL backgrounds, procedural audio, and cyberpunk aesthetics.**
 
-[🔗 Live Demo]((https://sudoundefined.github.io)) · [📄 AI Disclosure](./claude.md) · [📥 Download Resume](./public/Resume.pdf)
+[🔗 Live Demo](https://sudoundefined.github.io) · [📄 AI Disclosure](./claude.md) · [📥 Download Resume](./public/Resume.pdf)
 
 </div>
 
